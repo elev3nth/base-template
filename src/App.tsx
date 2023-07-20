@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="/assets/images/logo.svg" className="App-logo" alt="Celedonio Digital Logo" />
+        <img src="/static/images/logo.svg" className="App-logo" alt="Celedonio Digital Logo" />
         <p>
           This is a base react template for
         </p>
